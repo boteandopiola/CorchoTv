@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="TNT Sport Premium" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png",TNT Sport Premium
-https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MjIzMzE2Iiwic2lwIjoiMTg2LjIyLjU3LjY3IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiJiZmNiYmU0YzdkZDc0YWE3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.krendt9pQqJaut6y5WOwfxbZFTKjvLOyVDfawkVcLSwQfy5LW0iQKyTTPQwOQBkoNRDMw-wg0gh0ZRuubWV_Hw==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD-avc1_4999936=10014-scale=30000-p=356682949716200-10769403858006.mp4
+https://doc1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=dd67e236781b2c4e8c53d5f45dc4cf415b0a5f29-c3-1779095801-1779041801
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Premium%20128.png",ESPN Premium
-https://doc1.streameasthd.net/disney7/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=d23dbdf56f17c67576659d9a7b0c2b15a3468473-f9-1779090240-1779036240
+https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=7babde78e9fcd9b7ad33c600d2e8853007c10073-64-1779095649-1779041649
 
 #EXTINF:-1 tvg-name="DirectTV" tvg-logo="https://i.ibb.co/0j0bp8kR/dt.png",Direct TV Sport
-https://doc1.streameasthd.net/disney7/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=d23dbdf56f17c67576659d9a7b0c2b15a3468473-f9-1779090240-1779036240
+https://doc1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=362f1fb7b77facb7d22c44f8f33fb89ff990beb8-72-1779095975-1779041975
 
 #EXTINF:-1 tvg-name="TYC Sport" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsportshd@2x.png",TyC Sports
-https://doc1.streameasthd.net/disney7/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=d23dbdf56f17c67576659d9a7b0c2b15a3468473-f9-1779090240-1779036240
+https://pecdl1.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=90bef6179ec66f61dc103b2e38a22f4c5376172d-7c-1779095865-1779041865
