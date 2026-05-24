@@ -1,7 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="TNT Sport Premium" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png",TNT Sport Premium
-https://pecdl1.streameasthd.net/fanatiz5/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=9b064bf7bcc2160f3d9abbddebd11a4701c58a65-be-1779618762-1779564762
+GET https://ve.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=186.22.57.67&token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472 200
+
+Response Headers
+
+cache-control: no-cache
+content-length: 230
+content-type: application/vnd.apple.mpegurl
+pragma: no-cache
+server: Streamer 24.03
+x-run-time: 411
+x-sid: 6a1324b2-2562-44e0-a8c6-80d85755da99
+
+#EXTM3U
+#EXT-X-TARGETDURATION:7
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:118937
+#EXT-X-PROGRAM-DATE-TIME:2026-05-24T16:17:57.141Z
+#EXTINF:6.006,
+2026/05/24/16/17/57-06006.ts?token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472
+#EXTINF:6.006,
+2026/05/24/16/18/03-06006.ts?token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472
+#EXTINF:6.006,
+2026/05/24/16/18/09-06006.ts?token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472
+#EXTINF:6.006,
+2026/05/24/16/18/15-06006.ts?token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472
+#EXTINF:6.006,
+2026/05/24/16/18/21-06006.ts?token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472
+#EXTINF:6.006,
+2026/05/24/16/18/27-06006.ts?token=e3610690c1e3036d9de5f26490fad08c274e752f-3f-1779684472-1779630472
+
+
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Premium%20128.png",ESPN Premium
 https://ym9yzq.fubohd.com/espnpremium/mono.m3u8?token=d9465bec2614ba7f41d0492886d7671d448f0fa0-7f-1779656351-1779638351
