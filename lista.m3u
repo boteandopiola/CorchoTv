@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="TNT Sport Premium" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png",TNT Sport Premium
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest_video_5_0_init.mp4?m=1780931418
+https://szrak.vivolatamz.org/lb05/dsports/index.m3u8?token=f35e96bf50eb1493231f364a25eb66abf4b7f24e-5c-1782919431-1782865431&ip=186.22.57.67
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://telecentro.com.ar/img/cm/channels/Espn%20Premium%20128.png",ESPN Premium
 https://ym9yzq.fubohd.com/espnpremium/mono.m3u8?token=d9465bec2614ba7f41d0492886d7671d448f0fa0-7f-1779656351-1779638351
